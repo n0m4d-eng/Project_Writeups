@@ -36,4 +36,7 @@ The next part consisted of booting up the laptop into its BIOS, and choosing to 
 
 # Resources
 
-https://www.youtube.com/watch?v=_u8qTN3cCnQ
+- https://www.youtube.com/watch?v=_u8qTN3cCnQ
+- https://benheater.com/proxmox-laptop-cybersecurity-lab/
+- https://hackmd.io/RmB8dTZ-RbqSScQ8ILFmdQ?view
+- https://loghunter.substack.com/p/ultimate-cyber-security-home-lab?utm_campaign=post&utm_medium=web
