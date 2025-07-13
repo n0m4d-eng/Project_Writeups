@@ -1,3 +1,7 @@
-# Home Lab
+# n0m4d's Projects
 
-Here are all the notes I've taken on the topic of building a home server for managing my files in place of Google Cloud as well as creating several virtual environments that I can use to practice pentesting. 
+Writeups on some of the projects I'll be working on. They aren't necessary security related, more just techy projects that pique my interest. 
+
+# Links
+- [Proxmox Home Lab](Proxmox%20Homelab.md)
+- [Docker CTF Container](Docker.md)
