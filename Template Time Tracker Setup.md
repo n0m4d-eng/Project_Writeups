@@ -26,7 +26,7 @@ const days = Math.floor(durationMs / (1000 * 60 * 60 * 24));
 
 - Next we want to use the linter plugin to run custom commands on save, and run regex replace actions as well. 
 
-![](Assets/Pasted%20image%2020250716231556.png)
+![](assets/Pasted%20image%2020250716231556.png)
 
 The areas highlighted with red squares get the following code.
 
