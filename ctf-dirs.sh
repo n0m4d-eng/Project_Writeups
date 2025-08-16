@@ -21,6 +21,12 @@ if [ $? -eq 0 ]; then
     mkdir -p "$dirname/$subdir"
     echo "Created subdirectory: $dirname/$subdir"
   done
+
+   # Create subdirectories inside loot
+for subs in hashes passwords files; do
+         mkdir -p "$dirname/loot/$subs"
+         echo "Created loot subdirectory: $dirname/loot/$subs"
+       done
 else
   echo "Failed to create main directory '$dirname'."
   exit 1

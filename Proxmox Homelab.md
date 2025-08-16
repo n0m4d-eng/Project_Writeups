@@ -6,7 +6,7 @@ What I have on hand is an old laptop. A late 2019 razer blade stealth with an In
 
 This machine had 16GB of RAM, and a 512GB hard drive. This should be enough of a starting point to run some Vulnhub VMs. I don't know how this will hold up against an Active Directory lab. But I'm going to try anyway.
 
-I also need a dongle with an ethernet jack to connect ot my home router.
+I also need a dongle with an ethernet jack to connect to my home router.
 
 # Prepping the Laptop
 
